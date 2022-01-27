@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=hugcis&show_icons=true&theme=dracula&hide=stars,issues)
 <!--
 **hugcis/hugcis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
