@@ -82,6 +82,23 @@ jobs:
           config_timezone: Europe/Paris
           plugin_followup: yes
           plugin_languages: yes
+          
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: languages.svg
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: hugcis
+          template: classic
+          config_timezone: Europe/Paris
+          plugin_languages: yes
 
   metadata:
     runs-on: ubuntu-latest
