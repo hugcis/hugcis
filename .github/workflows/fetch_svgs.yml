@@ -81,6 +81,7 @@ jobs:
           base: ""
           config_timezone: Europe/Paris
           plugin_followup: yes
+          plugin_languages: yes
 
   metadata:
     runs-on: ubuntu-latest
