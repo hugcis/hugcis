@@ -14,7 +14,7 @@
   <img align="center" width="49%" src="./iso_calender.svg" />
 </a>
 <a href="https://github.com/jcs090218">
-  <img align="center" width="49%" src="./issue_pr_lang.svg" />
+  <img align="center" width="49%" src="./languages.svg" />
 </a>
 </div>
 
