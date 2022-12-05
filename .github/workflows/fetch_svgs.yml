@@ -100,7 +100,7 @@ jobs:
           base: ""
           config_timezone: Europe/Paris
           plugin_languages: yes
-          plugin_languages_ignored: jupyternotebook, html
+          plugin_languages_ignored: jupyter notebook, html
 
   metadata:
     runs-on: ubuntu-latest
