@@ -97,6 +97,7 @@ jobs:
           # Options
           user: hugcis
           template: classic
+          base: ""
           config_timezone: Europe/Paris
           plugin_languages: yes
 
