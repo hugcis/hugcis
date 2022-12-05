@@ -4,16 +4,16 @@
   <img align="center" width="49%" src="./header.svg" />
 </a>
 <div>
-<a href="https://github.com/jcs090218">
+<a href="https://github.com/hugcis">
   <img align="center" width="49%" src="./acti_comm.svg" />
 </a>
-<a href="https://github.com/jcs090218">
+<a href="https://github.com/hugcis">
   <img align="center" width="49%" src="./repositories.svg" />
 </a>
-<a href="https://github.com/jcs090218">
+<a href="https://github.com/hugcis">
   <img align="center" width="49%" src="./iso_calender.svg" />
 </a>
-<a href="https://github.com/jcs090218">
+<a href="https://github.com/hugcis">
   <img align="center" width="49%" src="./languages.svg" />
 </a>
 </div>
