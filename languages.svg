@@ -16,16 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 559kb of code in 472 edited files across 164 commits over last 27 days</small>
+                <small>estimation from 459kb of code in 394 edited files across 144 commits over last 26 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.62423683620324" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="426.62423683620324" y="0" width="27.151336938373746" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="453.77557377457697" y="0" width="3.858456477858905" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="457.6340302524359" y="0" width="2.3659697475641055" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.8913956222359" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="435.8913956222359" y="0" width="20.691373229580698" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="456.58276885181664" y="0" width="3.417231148183396" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -45,12 +44,6 @@
                             <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Dockerfile
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Shell
                     </div>
                 </div>
             </section>
