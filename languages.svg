@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 718kb of code in 929 edited files across 293 commits over last 27 days</small>
+                <small>estimation from 745kb of code in 958 edited files across 316 commits over last 27 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.04333827412563" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="441.04333827412563" y="0" width="17.98042660960215" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.0237648837278" y="0" width="0.33865695522856887" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.3624218389564" y="0" width="0.326013762233369" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.6884356011897" y="0" width="0.31156439881028336" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.75242346676055" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="441.75242346676055" y="0" width="17.149362698928375" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.9017861656889" y="0" width="0.5297266730206405" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.4315128387096" y="0" width="0.2971637434018227" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.7286765821114" y="0" width="0.27132341788862074" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -49,15 +49,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Dockerfile
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Makefile
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Dockerfile
                     </div>
                 </div>
             </section>
